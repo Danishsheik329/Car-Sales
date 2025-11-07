@@ -66,4 +66,4 @@ The matrix visual highlights top-performing companies and revenue trends, allowi
 Weekly and monthly sales patterns help in predicting future demand, planning stock levels, and preparing for seasonal variations in car sales.•ompetitiveness by region.
 
 ### 6.	Screenshots / Demos
-https://github.com/Danishsheik329/Mobile-Sales/blob/main/Screenshot%202025-11-06%20191142.png
+https://github.com/Danishsheik329/Car-Sales/blob/main/Screenshot%202025-11-07%20114606.png
