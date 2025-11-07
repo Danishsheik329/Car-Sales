@@ -8,14 +8,14 @@ The Car Sales Analysis Dashboard is an interactive Power BI report that helps us
 
 ### 3.	Tech Stack
 The dashboard was built using the following tools and technologies:<br>
-•	 Power BI Desktop – Main data visualization platform used for report creation.<br>
-•	 Ms Excel – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
-•	 SQL (Structured Query Language) – Used to retrieve, filter, and aggregate car sales data from the database before importing it into Power BI.
+• Power BI Desktop – Main data visualization platform used for report creation.<br>
+•Ms Excel – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•SQL (Structured Query Language) – Used to retrieve, filter, and aggregate car sales data from the database before importing it into Power BI.
    •Implemented aggregate functions (SUM, AVG, COUNT) to summarize sales and revenue.
    •Used window functions (like RANK(), ROW_NUMBER()) for ranking and trend analysis.
    •Applied constraints and clauses (WHERE, GROUP BY, HAVING, ORDER BY) for accurate and optimized data extraction.
-• 💾 File Format – The report was created in .pbix and exported as .png for dashboard previews.
+• File Format – The report was created in .pbix and exported as .png for dashboard previews.
 
 ### 4.	Data Source
 The dataset used in this project was taken from Kaggle.
